@@ -1,3 +1,5 @@
+Google Code Style
+
 graph traversals:
 1. Обход в глубину
 2. Обход в ширину
@@ -30,4 +32,6 @@ Data structures2:
 4. Декартово дерево
 5. Максимум на подотрезках с добавлением на отрезке
 6. Декартово дерево по неявному ключу
-7. 
+
+
+параметры компилятора: -O2 -std=c++17 -Wall -Werror -Wformat-security -Wignored-qualifiers -Winit-self -Wswitch-default -Wfloat-equal -Wshadow -Wpointer-arith -Wtype-limits -Wempty-body -Wlogical-op -Wmissing-field-initializers -Wctor-dtor-privacy -Wnon-virtual-dtor -Wstrict-null-sentinel -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Weffc++ -Wextra -pedantic-errors
